@@ -4,7 +4,6 @@ using UnityEngine;
 using System.Linq;
 using System;
 using UnityEngine.UI;
-using DG.Tweening;
 #if UNITY_EDITOR
 using UnityEditor;
 #endif
