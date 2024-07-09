@@ -7,13 +7,7 @@ using Sirenix.OdinInspector.Editor;
 using Sirenix.OdinInspector;
 using Sirenix.Utilities.Editor;
 using Sirenix.Utilities;
-using AdOne;
 using Debug = UnityEngine.Debug;
-using Sinbad;
-using System.IO;
-using System.Runtime.Serialization.Formatters.Binary;
-using System.Runtime.Serialization;
-using System.Linq;
 
 namespace AdOne.Editor
 {
