@@ -4,7 +4,7 @@
 	"displayName": "Kienbb Unity Toolkit",
 	"description": "Some handy tools",
 	"unity": "2022.3",
-	"version": "1.0.0",    
+	"version": "1.0.0"
   }],
   "dependencies": {
     "com.unity.nuget.newtonsoft-json": "3.2.1",
