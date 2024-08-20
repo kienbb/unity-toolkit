@@ -9,11 +9,11 @@ using Sirenix.Utilities.Editor;
 using Sirenix.Utilities;
 using Debug = UnityEngine.Debug;
 
-namespace AdOne.Editor
+namespace FreeTime.Editor
 {
-    public class AbiCustomMenu
+    public class FreeTimeCustomMenu
     {
-        [MenuItem("AdOne/Open Save Folder", priority = 40)]
+        [MenuItem("FreeTime/Open Save Folder", priority = 40)]
         private static void OpenPersistentFolder()
         {
             //EditorUtility.RevealInFinder(Application.persistentDataPath);
@@ -30,7 +30,7 @@ namespace AdOne.Editor
 
         public double ADouble;
 
-        [MenuItem("AdOne/Toy Menu AXZCASAQASD", priority = 100)]
+        [MenuItem("FreeTime/Toy Menu AXZCASAQASD", priority = 100)]
         private static void ShowWindow()
         {
             var window = GetWindow<ToyMenu>();

@@ -161,7 +161,7 @@ public class PrefabLightmapData : MonoBehaviour
 #if UNITY_EDITOR
        
     [Button(ButtonHeight = 50)]
-    [UnityEditor.MenuItem("AdOne/Extract Lightmap Data")]
+    [UnityEditor.MenuItem("FreeTime/Extract Lightmap Data")]
     static void GenerateLightmapInfo()
     {
         if (UnityEditor.Lightmapping.giWorkflowMode != UnityEditor.Lightmapping.GIWorkflowMode.OnDemand)
